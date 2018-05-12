@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '6759'
     url: http://www.gutenberg.org/2009/agents/6759
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30897#A-Little-Housekeeping-Book-for-a-Little-Girl--Or-Margaret-s-Saturday-Mornings
 gutenberg_issued: '2010-01-09'
 gutenberg_type: Text
 identifiers:
